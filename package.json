@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/daemonsy/hubot-heroku",
   "dependencies": {
-    "heroku-client": "^1.9.0",
+    "heroku-client": "*",
     "lodash": "^2.4.1",
-    "hubot-auth": "^1.2.0",
+    "hubot-auth": "*",
     "moment": "^2.10.3"
   },
   "devDependencies": {
